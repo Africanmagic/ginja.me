@@ -1,4 +1,4 @@
 ginja.me
 ========
 
-Ginja.me Reloaded - Live news, sports,health tips, commentary on your mobile
+Ginja.me Reloaded - Live news, sports, health tips, commentary on your mobile
